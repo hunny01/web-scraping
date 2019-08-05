@@ -6,7 +6,7 @@ WebScraping Application: This Is A Small Terminal Web Scrapping Applciation Whic
 	3. Duration
 	4. Heart Rating
 	5. Votes
-	6. Book Tickets
+	--> Book Tickets
 
 ----------------
 1. How To Start:
